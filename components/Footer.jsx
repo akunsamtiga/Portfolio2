@@ -40,7 +40,7 @@ export default function Footer() {
 
       {/* Bawah Footer */}
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-        <p>&copy; 2025 Carlos Mendoza. All rights reserved.</p>
+        <p>&copy; 2025 Sanzystore. All rights reserved.</p>
         <div className="flex space-x-6 mt-4 md:mt-0">
           <Link href="/privacy" className="hover:text-yellow-400 transition-colors">Privacy Policy</Link>
           <Link href="/terms" className="hover:text-yellow-400 transition-colors">Terms of Service</Link>

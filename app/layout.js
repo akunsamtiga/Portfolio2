@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'Carlos Mendoza — Product Designer',
+  title: 'Carlos Mendoza',
   description: 'Product Designer & Full Stack Developer based in California.',
 };
 
