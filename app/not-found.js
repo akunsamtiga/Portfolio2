@@ -17,3 +17,4 @@ export default function NotFound() {
     </div>
   );
 }
+// This is a custom 404 page for a Next.js application. It provides a user-friendly message and a link to return to the homepage.
